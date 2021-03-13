@@ -1,5 +1,4 @@
-#n=int(input())
-n=59
+n=int(input())
 result=[]
 
 people=1
